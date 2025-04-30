@@ -6,6 +6,15 @@ This file contains the documentation for 3d printer Arneus diadematus
 ## Asseble Frame
 To asseble frame, follow the [Anycubic mega Zero](Frame/mega_zero.pdf) manual
 
+## MCU
+### BIGTREETECH SKR3 EZ
+![Check media](media/SKR3_EZ_Title.png)
+I have chosen this MCU for its array of features
+
+### Connecting MCU
+follow diagram given in the [manual](MCU/BIGTREETECH%20SKR%203%20EZ%20user%20manual.pdf)
+![Check media](MCU/BIGTREETECH%20SKR%203%20EZ%20V1.0-PIN.pdf)
+
 ## Configurations
 
 ### Klipper Configs
